@@ -1,8 +1,7 @@
 ---
-layout: ../../layouts/MarkdownPostLayout.astro
 title: 'My First Blog Post'
 intrograf: 'Welcome to my _new blog_ about learning Astro! Here, I will share my learning journey as I build a new website.'
-pubDate: 2022-07-01
+pubDate: 2022-07-02
 publication: 'service at scale'
 description: 'This is the first post of my new Astro blog.'
 author: 'Astro Learner'
